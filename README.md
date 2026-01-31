@@ -1,2 +1,2 @@
 # AI-in-AMR 
-This repository contains the required python scripts and associated data to train and test Machine Learning (ML) models using most classifiers supported by the python's ski-learn, tensorflow and associated Bioinformatics packages in a Linux environment. 
+This repository AI in AMR includes the Python scripts and related data for training and testing Machine Learning (ML) models using offered by Python's ski-learn, tensorflow, etc.
